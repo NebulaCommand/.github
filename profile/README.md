@@ -1,1 +1,1 @@
-All Nebula Projects put on hold until futher notice.
+NebulaCommand README coming soon
